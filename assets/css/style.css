@@ -80,6 +80,10 @@ h1, h2, h3, h4, h5, h6 {
     color: #fff;
 }
 
+.intro__suptitless {
+    font-size: 15px;
+    color: #fff;
+}
 
 /* Header */
 .header {
